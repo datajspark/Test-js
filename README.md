@@ -5,3 +5,8 @@
 * Git 기초 명령어 학습
 * GitHub 원격 저장소 연결
 * README 작성법 연습
+
+---
+### 🚀 현재 진행 중인 프로젝트
+* 금융 AI 투자 분석 도구 개발 중
+* 기술 스택: Python, JavaScript, Git
